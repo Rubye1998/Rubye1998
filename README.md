@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://join.skype.com/invite/iwz8XZp8Ot6s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="https://join.skype.com/invite/iwz8XZp8Ot6s" height="30" width="40" /></a>
-<a href="https://t.me/canikaizen" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/telegram_5968804" alt="https://t.me/canikaizen" height="30" width="40" /></a>
+<a href="https://t.me/canikaizen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://t.me/canikaizen" height="30" width="40" /></a>
 </p>
 
 
