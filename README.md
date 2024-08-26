@@ -69,8 +69,8 @@
   
   <p align="center">
  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=Rubye1998&show_icons=true&theme=dark&locale=en&hide_border=true" alt="cristianbrinza" />
- <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianbrinza&theme=dark&hide_border=true" alt="cristianbrinza" />
- <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianbrinza&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="cristianbrinza" />
+ <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rubye1998&theme=dark&hide_border=true" alt="cristianbrinza" />
+ <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rubye1998&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="cristianbrinza" />
 </p>
   
  
